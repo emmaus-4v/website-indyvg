@@ -6,7 +6,7 @@ html, body {
     background-color: #EEEEEE;  
     
     color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+    font: Sans-Serif;
 }
 
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(189, 25, 25);
     text-align: center;
 }
 
@@ -77,11 +77,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #880d0d;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(189, 25, 25);
 }
 
 
