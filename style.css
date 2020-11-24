@@ -5,8 +5,8 @@ html, body {
     padding: 0;
     background-color: #EEEEEE;  
     
-    color: #303030;
-    font: Sans-Serif;
+    color: hsl(0, 0%, 19%);
+    font-family: monospace;
 }
 
 
@@ -37,8 +37,16 @@ footer {
 /* specifieke stijlen */
 
 img.zweefLinks {
-    float: left;
+    float: right;
     margin-right: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.hoofdpersonen-foto{
+width:100px;
+float:left;
+margin:10px;
+border: 5px #880d0d groove;
 }
 
 .smalltext {
@@ -54,14 +62,19 @@ a:hover {
     text-decoration: underline;
 }
 
+.ted{
+    clear:both;
+}
 
 /* navigatiebalk */
+
 nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #a7a2a2;
     overflow: hidden;
+    border: 6px #880d0d;
 }
 
 nav ul li {
