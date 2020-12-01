@@ -54,21 +54,6 @@ margin-right: 10px;
 border: 5px #880d0d groove;
 }
 
-.hoofdpersonen-foto2 {
-width:100px;
-float:left;
-margin:5px;
-margin-right: 10px;
-border: 5px #880d0d groove;
-
-}
-
-.hoofdpersonen-foto3{
-width:100px;
-float:left;
-margin:10px;
-border: 5px #880d0d groove;
-}
 
 .smalltext {
     font-size: 0.7em;
@@ -83,23 +68,12 @@ a:hover {
     text-decoration: underline;
 }
 
-.tedtekst{
+.hoofdpersonentekst{
     float:left;
     width: 500px;
    margin-top:35px;
 }
 
-.tedtekst2{
-    float:left;
-    width: 500px;
-   margin-top:35px;
-}
-
-
-.tedtekst3{
-    
-    clear:both;
-}
 
 
 /* navigatiebalk */
