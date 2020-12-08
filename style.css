@@ -39,11 +39,16 @@ p.indextekst{
     float: left;
     width: 400px;
 }
+
+h3{
+    background-color: rgb(189, 25, 25);
+    color: white;
+}
 /* specifieke stijlen */
 
 img.zweefLinks {
     float: left;
-    margin:10px;
+    margin: 15px;
     width:250px;
     border: 7px #880d0d groove;
 }
