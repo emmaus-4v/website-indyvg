@@ -93,6 +93,19 @@ a:hover {
    margin-top:20px;
 }
 
+.imgrechts{
+    float: right;
+    width: 200px;
+    border: 7px #880d0d groove;
+    margin:5px;
+    margin-top:18px;
+}
+
+.mijnmeningtekst {
+    float:left;
+    width: 450px;
+   margin-top:10px;
+}
 
 /* navigatiebalk */
 
