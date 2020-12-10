@@ -44,6 +44,8 @@ h3{
     background-color: rgb(189, 25, 25);
     color: white;
 }
+
+
 /* specifieke stijlen */
 
 img.zweefLinks {
@@ -67,7 +69,7 @@ border: 5px #880d0d groove;
 }
 
 a {
-    color: skyblue;
+    color:#880d0d ;
     text-decoration: none;
 }
 
