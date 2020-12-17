@@ -67,7 +67,7 @@ img.zweefLinks {
     float:left;
     width: 500px;
 }
-
+/* animaties */
 @keyframes titelkleur {
     0% {
        color:rgb(189, 25, 25);
@@ -88,6 +88,22 @@ img.zweefLinks {
 
 .titelkleur {
     animation: titelkleur 10s infinite;
+}
+
+@keyframes tekstgroter {
+  0% {
+    font-size: 30px;
+  }
+  50% {
+    font-size: 35px;
+  }
+  100% {
+    font-size: 30px;
+  }
+}
+
+.tekstgroter {
+   animation: tekstgroter 4s infinite;
 }
 
 /* hoofdpersonen */
