@@ -68,6 +68,28 @@ img.zweefLinks {
     width: 500px;
 }
 
+@keyframes titelkleur {
+    0% {
+       color:rgb(189, 25, 25);
+    }
+    25% {
+        color:#ff471a;
+    }
+    50% {
+        color:#ff9900;
+    }
+    75% {
+        color:#ffe680;
+    }
+    100% {
+        color:rgb(189, 25, 25);
+    }
+}
+
+.titelkleur {
+    animation: titelkleur 10s infinite;
+}
+
 /* hoofdpersonen */
 .hoofdpersonen-foto{
 width:100px;
