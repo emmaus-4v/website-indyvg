@@ -33,48 +33,48 @@ footer {
     padding-bottom: 10px;
     clear:both;
 }
+h3{
+    background-color: rgb(189, 25, 25);
+    color: white;
+}
 
+.smalltext {
+    font-size: 0.7em;
+}
+/* index */
 p.indextekst{
     margin-top:20px;
     float: left;
     width: 400px;
 }
 
-h3{
-    background-color: rgb(189, 25, 25);
-    color: white;
-}
-
-
-/* specifieke stijlen */
-
 img.zweefLinks {
     float: left;
-    margin: 15px;
+    margin: 5px;
     width:250px;
     border: 7px #880d0d groove;
 }
 
+.netflixfoto{
+    float: right;
+    margin: 15px;
+    width:150px;
+    border: 7px #880d0d groove;
+
+}
+
+.netflixtekst{
+    float:left;
+    width: 500px;
+}
+
+/* hoofdpersonen */
 .hoofdpersonen-foto{
 width:100px;
 float:left;
 margin:5px;
 margin-right: 10px;
 border: 5px #880d0d groove;
-}
-
-
-.smalltext {
-    font-size: 0.7em;
-}
-
-a {
-    color:#880d0d ;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 .hoofdpersonentekst{
@@ -95,6 +95,17 @@ a:hover {
    margin-top:20px;
 }
 
+/* mijn mening */
+
+a {
+    color:#880d0d ;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .imgrechts{
     float: right;
     width: 200px;
@@ -109,6 +120,12 @@ a:hover {
    margin-top:10px;
 }
 
+/* verhaallijn */
+
+.verhaallijnfoto{
+    float: right;
+    width: 300px;
+}
 /* navigatiebalk */
 
 nav ul {
