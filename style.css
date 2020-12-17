@@ -50,14 +50,14 @@ p.indextekst{
 
 img.zweefLinks {
     float: left;
-    margin: 5px;
+    margin: 15px;
     width:250px;
     border: 7px #880d0d groove;
 }
 
 .netflixfoto{
     float: right;
-    margin: 15px;
+    margin: 10px;
     width:150px;
     border: 7px #880d0d groove;
 
